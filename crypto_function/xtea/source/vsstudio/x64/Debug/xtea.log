@@ -1,0 +1,6 @@
+﻿  xtea.cpp
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\xtea\source\xtea.cpp(41,17): warning C4129: '(': unrecognized character escape sequence
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\xtea\source\xtea.cpp(49,21): warning C4244: '=': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\xtea\source\xtea.cpp(62,24): warning C4244: '=': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  LINK : C:\Users\Yongming Fan\Desktop\artifact\crypto_function\xtea\xtea_msvc\x64\Debug\xtea_msvc.exe not found or not built by the last incremental link; performing full link
+  xtea.vcxproj -> C:\Users\Yongming Fan\Desktop\artifact\crypto_function\xtea\xtea_msvc\x64\Debug\xtea_msvc.exe

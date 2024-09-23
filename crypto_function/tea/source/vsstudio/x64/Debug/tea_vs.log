@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (tea_vs.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  LINK : C:\Users\Yongming Fan\Desktop\artifact\crypto_function\tea\tea_vs\x64\Debug\tea_msvs.exe not found or not built by the last incremental link; performing full link
+  tea_vs.vcxproj -> C:\Users\Yongming Fan\Desktop\artifact\crypto_function\tea\tea_vs\x64\Debug\tea_msvs.exe

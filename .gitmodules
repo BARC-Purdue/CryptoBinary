@@ -1,0 +1,12 @@
+[submodule "tools/wheres-crypto"]
+	path = tools/wheres-crypto
+	url = https://github.com/wheres-crypto/wheres-crypto.git
+[submodule "tools/CryptoKnight"]
+	path = tools/CryptoKnight
+	url = https://github.com/AbertayMachineLearningGroup/CryptoKnight.git
+[submodule "tools/aligot"]
+	path = tools/aligot
+	url = https://github.com/j04n/aligot.git
+[submodule "tools/CryptoHunt"]
+	path = tools/CryptoHunt
+	url = https://github.com/s3team/CryptoHunt.git

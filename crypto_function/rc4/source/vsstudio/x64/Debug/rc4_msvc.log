@@ -1,0 +1,8 @@
+﻿  rc4.cpp
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc4\source\rc4.cpp(84,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc4\source\rc4.cpp(92,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc4\source\rc4.cpp(93,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc4\source\rc4.cpp(96,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc4\source\rc4.cpp(97,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LINK : C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc4\rc4_msvc\x64\Debug\rc4_msvc.exe not found or not built by the last incremental link; performing full link
+  rc4_msvc.vcxproj -> C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc4\rc4_msvc\x64\Debug\rc4_msvc.exe

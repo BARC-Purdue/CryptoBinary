@@ -1,0 +1,3 @@
+﻿  clang (LLVM option parsing): Unknown command line argument '-sub'.  Try: 'clang (LLVM option parsing) --help'
+  clang (LLVM option parsing): Did you mean '-h'?
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.ClangCl.Common.targets(255,5): error MSB6006: "clang-cl.exe" exited with code 1.

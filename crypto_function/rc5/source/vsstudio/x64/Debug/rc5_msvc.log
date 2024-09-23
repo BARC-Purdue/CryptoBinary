@@ -1,0 +1,6 @@
+﻿  rc5.cpp
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc5\source\rc5.cpp(140,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc5\source\rc5.cpp(284,40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc5\source\rc5.cpp(773,27): warning C4244: '=': conversion from 'RC5_TWORD' to 'unsigned char', possible loss of data
+  LINK : C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc5\rc5_msvc\x64\Debug\rc5_msvc.exe not found or not built by the last incremental link; performing full link
+  rc5_msvc.vcxproj -> C:\Users\Yongming Fan\Desktop\artifact\crypto_function\rc5\rc5_msvc\x64\Debug\rc5_msvc.exe
