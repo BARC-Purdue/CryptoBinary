@@ -12,17 +12,17 @@ While general purpose binary analysis and function identification techniques are
 
 We evaluate 12 cryptographic function detection tools in our Reproduction and Replication (R+R) evaluation including
 
-* CryptoHunt
-* CryptoKnight
-* DRACA
-* FindCrypt2
-* FALKE-MC
-* HCD
-* Kerckhoff
-* PEiD KANAL
-* SignSrch
-* Softmax Classifier
-* Where's Crypto
+* CryptoHunt (https://github.com/s3team/CryptoHunt)
+* CryptoKnight (https://github.com/AbertayMachineLearningGroup/CryptoKnight/tree/master)
+* DRACA (http://www.literatecode.com/draca)
+* FindCrypt2 (https://hex-rays.com/blog/findcrypt2/)
+* FALKE-MC (https://dl.acm.org/doi/10.1145/3230833.3230858)
+* HCD (https://webscene.ir/tools/show/Hash-and-Crypto-Detector-1.4)
+* Kerckhoff (https://github.com/felixgr/kerckhoffs/tree/master)
+* PEiD KANAL (http://www.dcs.fmph.uniba.sk/zri/6.prednaska/tools/PEiD/plugins/kanal.htm)
+* SignSrch (https://aluigi.altervista.org/mytoolz.htm)
+* Softmax Classifier (https://ieeexplore.ieee.org/abstract/document/8960303)
+* Where's Crypto (https://github.com/wheres-crypto/wheres-crypto)
 
 The majority of our evaluation aims to ensure that these tools' detection abilities can be replicated using our newly designed benchmarking and evaluation suite. The complete results are presented in Table 8 of our paper. This document provides instructions on how to obtain our evaluation results and reproduce this table.  All other graphs and figures in the paper are created from information consolidated from this table for discussion purposes and can be reproduced from this.
 
