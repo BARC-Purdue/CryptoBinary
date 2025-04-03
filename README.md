@@ -1,6 +1,10 @@
 # R+R: A Systematic Study of Cryptographic Function Identification Approaches in Binaries
 
-The full paper will be available later, and the link will be updated.
+This project was published as
+
+Y. Fan, P. Biswas and C. Garman, "R+R: A Systematic Study of Cryptographic Function Identification Approaches in Binaries," 2024 Annual Computer Security Applications Conference (ACSAC), Honolulu, HI, USA, 2024, pp. 1092-1108, doi: 10.1109/ACSAC63791.2024.00089.
+
+You can access our paper from https://ieeexplore.ieee.org/document/10918033.
 
 ## Abstract
 
